@@ -2,7 +2,7 @@
 title: BapujiAI — Life in the Multiverse Q&A Guide
 emoji: 🌌
 colorFrom: purple
-colorTo: orange
+colorTo: yellow
 sdk: gradio
 sdk_version: "4.44.0"
 app_file: app.py
